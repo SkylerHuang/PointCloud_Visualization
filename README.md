@@ -26,8 +26,7 @@ showpoints(pointcloud)
 
 Get following rendering:
 
-![Render balls](图片链接地址)
-
+<img src="https://github.com/SkylerHuang/PointCloud_Visualization/blob/master/doc/render_balls.png" height="330" width="330" >
 And you can set the color of the ball and background. see `show3d_balls.py` for more detailed.
 
 ## 
@@ -44,4 +43,4 @@ visual_pointcloud(pointcloud)
 
 Get following rendering:
 
-![Matplotlib_visual](图片链接地址)
+<img src="https://github.com/SkylerHuang/PointCloud_Visualization/blob/master/doc/matplot.png" height="330" width="330" >
